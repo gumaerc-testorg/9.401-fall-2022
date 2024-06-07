@@ -12,7 +12,7 @@ We want the data we collect to be used to make scientific advances. Ideally, we 
 
 ### Readings
 
-- Frank, M. (2022). [Chapter 13 "Project Management](https://experimentology.io/13-management)." In *Experimentology*.
+- Frank, M. (2022). [Chapter 13 "Project Management](https://experimentology.io/013-management.html)." In *Experimentology*.
 - Henry, T. (2021). "[Data Management for Researchers: Three Tales](https://www.teaguehenry.com/strings-not-factors/2021/1/24/data-management-for-researchers-three-terrifying-tales)" and "[Eight Principles of Good Data Management](https://www.teaguehenry.com/strings-not-factors/2021/2/21/eight-principles-of-good-data-management)."
 - [Final NIH Policy for Data Management and Sharing](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-013.html).
 

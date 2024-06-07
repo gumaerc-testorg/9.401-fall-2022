@@ -33,7 +33,7 @@ Pre-registration:
 - [http://osf.io/](http://osf.io/)
 - [https://egap.org/registry/](https://egap.org/registry/) 
 - [http://ridie.3ieimpact.org/](http://ridie.3ieimpact.org/)
-- [https://declaredesign.org/getting-started.html](https://declaredesign.org/getting-started.html) 
+- [Getting started with DeclareDesign](https://declaredesign.org/getting-started/)
 - Preregistration information for [NeurIPS](https://preregister.science/neurips2020.html).
 - Journals that offer visible [badges for pre-registration](https://www.cos.io/initiatives/badges).
 - [What should a preregistration contain?](https://psyarxiv.com/cj5mh/)

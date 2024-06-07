@@ -23,11 +23,11 @@ Then, critically evaluate these tools: will they address the obstacles to repeat
     - Online behavioural experiments: [OTree](https://www.otree.org) [PsyToolkit](https://www.psytoolkit.org) [Pavlovia](https://pavlovia.org/docs/home/about) or [PCIbex](https://farm.pcibex.net).
     - Computational biology: [nextflow](https://www.nextflow.io).
     - List of electronic laboratory notebook software packages: [Wikipedia page](https://en.wikipedia.org/wiki/List_of_electronic_laboratory_notebook_software_packages).
-- ARRIVE and CONSORT methodology reporting standards: [ARRIVE Guidelines ](https://arriveguidelines.org/) & [CONSORT Statement](http://www.consort-statement.org/).
+- ARRIVE and CONSORT methodology reporting standards: [ARRIVE Guidelines ](https://arriveguidelines.org/) & [CONSORT Statement](https://www.bmj.com/content/340/bmj.c332).
 - [Videos of workshops on](https://www.youtube.com/watch?v=kzUtpDBo8wk) how to improve reproducibility.
 - [Repository of scales used in Psychology](https://osf.io/5zb8p/).
 - [Collection of articles about reproducibility](https://www.nature.com/collections/prbfkwmwvz/).
-- [https://www.datajoint.org/](https://www.datajoint.org/)
+- [https://datajoint.com/](https://datajoint.com/)
 - [https://www.nc3rs.org.uk/experimental-design-assistant-eda](https://www.nc3rs.org.uk/experimental-design-assistant-eda)
 - [Interview with Teytelman](https://theplosblog.plos.org/2021/03/interview-protocols-io/) where he talks about the obstacles to the uptake of protocols.
 - [A slate article about how personal and ugly](https://slate.com/technology/2014/07/replication-controversy-in-psychology-bullying-file-drawer-effect-blog-posts-repligate.html) the controversies about replication can get. This story is about a psychology experiment about moral priming, and the controversy was called "#repligate". 

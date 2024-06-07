@@ -30,8 +30,8 @@ uid: 238a336a-968c-48dc-90ed-7d345f0844d8
 - [Story Collider](https://www.storycollider.org): true personal stories about science. 
 - [https://scienceblogs.com](https://scienceblogs.com)
 - [Dance your PhD](https://www.science.org/content/article/watch-winners-year-s-dance-your-phd-contest)
-- Super cool communication mechanism: [Nutshell](https://ncase.me/nutshell-wip/) (h/t Joyce).
+- Super cool communication mechanism: [Nutshell](https://ncase.me/nutshell/) (h/t Joyce).
 - A (failed?) attempt to incentivize better visualization and explanations: [Distill](https://distill.pub/2021/distill-hiatus/) (h/t Peng).
 - What not to do: [Scientific diagrams that look like shitposts](https://twitter.com/scienceshitpost) (h/t Joyce).
 - Baumer, K. M., Lopez, J. J., Naidu, S. V., et al. (2021). "[Visualizing 3D imagery by mouth using candy-like models](https://www.science.org/doi/10.1126/sciadv.abh0691)." *Science Advances* 7(22): eabh0691.
-- Nwagwu, W.E., & Onyancha, B.. (2015). "[Back to the Beginning — The Journal is Dead, Long Live Science](https://www.researchgate.net/profile/Williams-Nwagwu-2/publication/347522390_36_Back_to_the_beginning/links/5fe0b83c45851553a0df026e/36-Back-to-the-beginning.pdf)." *The Journal of Academic Librarianship*. [doi:10.1016/j.acalib.2015.06.005](http://dx.doi.org/10.1016/j.acalib.2015.06.005.).
+- Nwagwu, W.E., & Onyancha, B.. (2015). "[Back to the Beginning — The Journal is Dead, Long Live Science](https://www.researchgate.net/profile/Williams-Nwagwu-2/publication/347522390_36_Back_to_the_beginning/links/5fe0b83c45851553a0df026e/36-Back-to-the-beginning.pdf)." *The Journal of Academic Librarianship*. [doi:10.1016/j.acalib.2015.06.005](http://dx.doi.org/10.1016/j.acalib.2015.06.005).
