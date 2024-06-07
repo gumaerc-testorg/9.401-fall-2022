@@ -19,4 +19,4 @@ Most scientific research depends on people working together: from trainees worki
 - A wild case study of a dispute over data ownership that had to be adjudicated by the journal editors: Fox, P. T., Bullmore, E., Bandettini, P. A., & Lancaster, J. L. (2009). "[Protecting peer review: Correspondence chronology and ethical analysis regarding Logothetis vs. Shmuel and Leopold](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2715868/)." *Human brain mapping*, *30*(2), 347-354.
 - Halchenko, Y. O., & Hanke, M. (2015). "[Four aspects to make science open 'by design' and not as an after-thought](https://academic.oup.com/gigascience/article/4/1/s13742-015-0072-7/2707572).*GigaScience*, *4*(1), s13742-015.
 - Start at ~9 minutes: [The juice and the squeeze, Ep. 44: "Collaborations](https://open.spotify.com/episode/21zhLxwM946cIh4H4lxW87?si=r2P1xkuKSeqm74IDxPgoQQ&nd=1.)." \[Podcast episode\]
-- Russ Poldrack's lab guide: new [section on Intellectual Property](https://poldracklab.github.io/research/intellectual_property.html).
+- Russ Poldrack's lab guide: new [section on Intellectual Property](https://poldracklab.org/labguide/research/intellectual_property.html).

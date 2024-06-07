@@ -9,9 +9,9 @@ uid: 6f6af34a-693e-4fbe-840c-e2b2a24644a0
 
 *Practical skills assignment*
 
-1. Find a private (not already publicly shared) dataset you have recently created or used, and evaluate it against the recommendations in Section 13.2 of [Chapter 13 Project management](https://experimentology.io/13-management), in *Experimentology*. Which recommendations are fulfilled? What needs work?
+1. Find a private (not already publicly shared) dataset you have recently created or used, and evaluate it against the recommendations in Section 13.2 of [Chapter 13 Project management](https://experimentology.io/013-management.html), in *Experimentology*. Which recommendations are fulfilled? What needs work?
 2. Find the (meta)data standards and data repositories that are most relevant for your subfield.
-3. Identify a public dataset in your subfield. This could be a dataset of your own, or from your own lab, or a publicly shared dataset from another lab in your field. Give a basic description of the dataset in your response paper (who generated it, what kind of data, where is it publicly shared).  Evaluate this dataset using the [FAIR checklist](https://www.lcrdm.nl/files/lcrdm/2019-07/HOW%20FAIR%20IS%20YOUR%20DATA_flyer_2.pdf):
+3. Identify a public dataset in your subfield. This could be a dataset of your own, or from your own lab, or a publicly shared dataset from another lab in your field. Give a basic description of the dataset in your response paper (who generated it, what kind of data, where is it publicly shared).  Evaluate this dataset using the FAIR checklist:
     - Findable: Which data search tools can find this dataset? How easy would it be to find? What repository is it stored in? How searchable is the repository? Can the data be cited?
     - Accessible: Can the data be easily retrieved and downloaded? Are reasonable restrictions in place?
     - Interoperable: Do the data and metadata conform to recognized standards in this discipline? How good are those standards?

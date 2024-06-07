@@ -19,7 +19,7 @@ uid: aad62042-4c35-4cf4-aafe-4f9b0731cf1a
 
 - [Academics for Black Survival and Wellness](https://www.academics4blacklives.com/)
 - A different tool for audits, the [Google Chrome extension](https://chrome.google.com/webstore/detail/citation-transparency/cepnbdbhabaljgecaddglhhcgajphbcf?hl=en)
-- [DEIJ offices can't be effective if they aren't empowered](https://www.insidehighered.com/views/2020/08/20/diversity-equity-and-inclusion-offices-cant-be-effective-if-they-arent-empowered%20). Inside Higher Ed.
+- [DEIJ offices can't be effective if they aren't empowered](https://www.insidehighered.com/views/2020/08/20/diversity-equity-and-inclusion-offices-cant-be-effective-if-they-arent-empowered). Inside Higher Ed.
 - [Reject Injustice through Student Empowerment (RISE)](https://www.rise4mit.com) is an MIT group whose mission is to fight racism, sexism, and other forms of injustice on our campus to guarantee the right to a safe working and educational environment free of harassment, discrimination, and abuse.
 - Subbaraman, N. (2020). "[How# BlackInTheIvory put a spotlight on racism in academia](https://www.nature.com/articles/d41586-020-01741-7)." *Nature*, 582(7812), 327-328.
 - Lantsoght, E. O., Tse Crepaldi, Y., Tavares, S. G., Leemans, K., & Paig-Tran, E. W. (2021). "[Challenges and Opportunities for Academic Parents During COVID-19](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.645734/full#:~:text=The%20COVID%2D19%20pandemic%20and%20related%20lockdown(s)%20created,increased%20challenges%20for%20academic%20parents.&text=A%20US%20survey%20conducted%20in,learning%20facility%20in%20September%202020)." *Frontiers in Psychology*, 3353.
