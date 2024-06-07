@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/9-401-tools-for-robust-science-fall-2022/mit9_401_f22.jpg
-file_size: ''
+file_size: 57066
 file_type: image/jpeg
 image_metadata:
   caption: 'Open science badges acknowledge the adoption of open practices and signal
