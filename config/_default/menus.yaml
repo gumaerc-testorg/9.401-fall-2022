@@ -7,54 +7,58 @@ leftnav:
   name: Calendar
   pageRef: /pages/calendar
   weight: 20
+- identifier: 5b920422-0d12-444c-922c-e6a2e48a840b
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
 - identifier: d2c09e5a-d51d-4ca4-bf08-d08d496f311d
   name: 'Week 1: What Are We Trying to Do Here?'
   pageRef: /pages/week-1-the-challenge
-  weight: 30
+  weight: 40
 - identifier: 7787d088-08d1-4e8c-beff-017fb0022ce5
   name: 'Week 2: Data Are Wasted, Lost, and Under-Used'
   pageRef: /pages/week-1-response-paper
-  weight: 40
+  weight: 50
 - identifier: d31b8719-2f1e-4754-b5d6-8c0c64b5b5ff
   name: 'Week 3: Experiments Cannot Be Reproduced by Other Labs'
   pageRef: /pages/week-3-experiments-cannot-be-reproduced-by-other-labs
-  weight: 50
+  weight: 60
 - identifier: 39ba7d7f-cf99-477a-a10d-f6ca942f68c1
   name: 'Week 4: The Literature Is Biased'
   pageRef: /pages/week-4-the-challenge
-  weight: 60
+  weight: 70
 - identifier: 905c3b16-c63e-43d4-9bd3-72603d6b5a82
   name: 'Week 5: Mistakes Go Uncaught and Uncorrected'
   pageRef: /pages/week-5-the-challenge
-  weight: 70
+  weight: 80
 - identifier: ed102048-30ba-49b4-8927-3cba3c885822
   name: 'Week 6: Time and Effort Are Wasted by Arbitrary Gatekeeping'
   pageRef: /pages/week-6-the-challenge
-  weight: 80
+  weight: 90
 - identifier: 615012bd-8880-4f8a-93d4-05b6a13cc0b6
   name: 'Week 7: Results Are Only Accessible to Very Rich Institutions'
   pageRef: /pages/week-7-the-challenge
-  weight: 90
+  weight: 100
 - identifier: 269651c6-9356-4b2a-95e4-b998c7f23752
   name: 'Week 8: Scientific Papers Are Obsolete'
   pageRef: /pages/week-8-the-challenge
-  weight: 100
+  weight: 110
 - identifier: 27e54345-dff3-41c7-bbf8-9b38f4e2bfea
   name: 'Week 9: "But, the Incentives"'
   pageRef: /pages/week-9-challenge-researchers-are-incentivized-to-be-first-not-right
-  weight: 110
+  weight: 120
 - identifier: 09b11cae-d3de-424c-b2af-9fe68e047857
   name: 'Week 10: Who Can Re-Use What?'
   pageRef: /pages/week-10-challenge-managing-the-use-of-scientific-products
-  weight: 120
+  weight: 130
 - identifier: 4b8e8288-e152-4e7f-9290-01c3a944f5c6
   name: 'Week 11: The Voices We Don''t Hear'
   pageRef: /pages/week-11-challenge-the-voices-we-dont-hear
-  weight: 130
+  weight: 140
 - identifier: 42e568ae-4a30-4bf9-9653-df35db3933ff
   name: 'Week 12: Basic Science Does Not Generalize to the Real World'
   pageRef: /pages/week-12-challenge-basic-science-does-not-generalize-to-the-real-world
-  weight: 140
+  weight: 150
 - identifier: 6724d0d9-0dce-4061-bd31-6e1d3a943de7
   name: 'Week 1: Response Paper'
   pageRef: /pages/week-1-response-paper2
