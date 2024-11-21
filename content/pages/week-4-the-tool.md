@@ -28,7 +28,7 @@ In part 2 of your response paper describe what you did, in fulfilling the practi
 Pre-registration:
 
 - [AsPredicted.org](https://aspredicted.org/)
-- [ClinicalTrials.gov](https://clinicaltrials.gov)
+- [ClinicalTrials.gov](https://clinicaltrials.gov/)
 - [https://www.socialscienceregistry.org/](https://www.socialscienceregistry.org/) 
 - [http://osf.io/](http://osf.io/)
 - [https://egap.org/registry/](https://egap.org/registry/) 
@@ -41,8 +41,8 @@ Pre-registration:
 More arguments in favour of preregistration:
 
 - [https://www.phdontrack.net/open-science/preregistration/](https://www.phdontrack.net/open-science/preregistration/)
-- [https://help.osf.io/hc/en-us/articles/360021390833-Preregistration](https://help.osf.io/hc/en-us/articles/360021390833-Preregistration)
-- A thoughtful discussion about [pre-registration in mental health research by the editor of Biological Psychiatry, Deanna Barch](https://www.bpsgos.org/article/S2667-1743(21)00062-8/fulltext).
+- [https://help.osf.io/article/145-preregistration](https://help.osf.io/article/145-preregistration) 
+- A thoughtful discussion about [pre-registration in mental health research by the editor of Biological Psychiatry, Deanna Barch](https://www.bpsgos.org/article/S2667-1743%2821%2900062-8/fulltext).
 - Many examples of pre-registration templates are [linked in this thread from Twitter](https://twitter.com/katiecorker/status/1356693366256328708).
 - [Another example](https://docs.google.com/document/d/1DaNmJEtBy04bq1l5OxS4JAscdZEkUGATURWwnBKLYxk/edit?pli=1).
 - [A recent talk about preregistration](https://www.youtube.com/watch?v=-fz_kZvlWpw).

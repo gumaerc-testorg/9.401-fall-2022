@@ -25,7 +25,7 @@ Tools for post-publication peer review or commentary on preprints:
 - [https://sciety.org/](https://sciety.org/)
 - [https://f1000.com/](https://f1000.com/)
 - [https://peercommunityin.org/](https://peercommunityin.org/)
-- [https://help.osf.io/hc/en-us/articles/360038856834-Endorse-a-Preprint](https://help.osf.io/hc/en-us/articles/360038856834-Endorse-a-Preprint)
+- [https://help.osf.io/article/187-endorse-a-preprint](https://help.osf.io/article/187-endorse-a-preprint) 
 - [https://pubpeer.com/](https://pubpeer.com/)
 - A [recent talk by Chris Chambers about registered reports and the tool "Peer Community In."](https://osf.io/mnp6y/?pid=d4fh5)
 
@@ -41,5 +41,5 @@ Other resources for improving preprint and review systems:
 Practical resources for writing peer reviews:
 
 - [https://plos.org/resource/how-to-write-a-peer-review/](https://plos.org/resource/how-to-write-a-peer-review/).
-- Peer review week 2021: [https://peerreviewweek.wordpress.com](https://peerreviewweek.wordpress.com).
+- Peer review week 2021: [https://peerreviewweek.wordpress.com](https://peerreviewweek.wordpress.com/).
 - And the [youtube channel from previous years of Peer Review Week](https://www.youtube.com/channel/UCbmYfn4oBs5a084aOu-ph-g).

@@ -33,6 +33,6 @@ uid: ae391099-222b-4c2a-8296-457788495f31
 - [Guide to choosing a Creative Commons license](https://chooser-beta.creativecommons.org/).
 - Open Knowledge Foundation: [Guide to Open Data Licensing](https://opendefinition.org/guide/data/).
 - Belmont Forum: [Data Management Best Practices & Standards: Licensing](https://bfe-inf.github.io/toolkit/bp&s-licensing.html).
-- OSF guide to [choosing a license for pre-registration](https://help.osf.io/hc/en-us/articles/360019739014-Licensing).
+- OSF guide to [choosing a license for pre-registration](https://help.osf.io/article/148-licensing).
 - [Ethical licenses](https://ethicalsource.dev/licenses/).
 - Coalition S [Rights Retention strategy](https://www.coalition-s.org/rights-retention-strategy/) All research articles which arise from funding from a cOAlition S Organisation must be licensed CC BY. And [a long blog post](https://scholarlykitchen.sspnet.org/2021/02/17/rights-retention-strategy/) that aims to explain RRS.
