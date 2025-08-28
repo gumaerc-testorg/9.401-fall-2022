@@ -30,6 +30,8 @@
     "website": "tools-for-robust-science"
   },
   "course_title": "Tools for Robust Science",
+  "hide_download": false,
+  "mit_learn_topics": [],
   "course_description": "This course offers a comprehensive exploration of cutting-edge tools and techniques designed to revitalize and enhance scientific practices in the cognitive and neuro-sciences. Students will identify obstacles to conducting robust scientific research, practice using tools meant to overcome these obstacles, and critically evaluate these tools\u2019 potential and limitations.",
   "department_numbers": [
     "9"
@@ -43,8 +45,10 @@
   "learning_resource_types": [
     "Tools",
     "Readings",
-    "Written Assignments"
+    "Written Assignments",
+    "Podcasts"
   ],
   "site_uid": "89a9f8b9-7bfc-41b7-8a8e-12cfec87c219",
-  "site_short_id": "9.401-fall-2022"
+  "site_short_id": "9.401-fall-2022",
+  "site_url_path": "courses/9-401-tools-for-robust-science-fall-2022"
 }
