@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/tools-for-robust-science/mit9_401_f22_paper_template.tex
+file: /ol-ocw-studio-app/courses/9-401-tools-for-robust-science-fall-2022/mit9_401_f22_paper_template.tex
 file_size: 6866
 file_type: text/x-tex
 image_metadata:
