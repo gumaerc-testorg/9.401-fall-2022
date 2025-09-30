@@ -21,32 +21,32 @@ In part 2 of your response paper describe what you did, in fulfilling the practi
 
 ### Useful Links and Resources
 
-- [How to pre-register: a Practical Guide](https://osf.io/2vu7m/)
-- [A guide to registered reports](https://www.cos.io/initiatives/registered-reports)
-- Wieschowski, S., Laser, H., Sena, E. S., et al. (2020). "[Attitudes towards animal study registries and their characteristics: An online survey of three cohorts of animal researchers](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226443)." *PloS one*, 15(1), e0226443.
+- {{% resource_link "0333ce67-eb5d-4cb0-9095-6a888c119d36" "How to pre-register: a Practical Guide" %}}
+- {{% resource_link "4258a7ed-ac12-45f3-804e-e953ed8c8bdc" "A guide to registered reports" %}}
+- Wieschowski, S., Laser, H., Sena, E. S., et al. (2020). "{{% resource_link "d6a9da8c-b78f-4cbf-ad80-73bafd17ed08" "Attitudes towards animal study registries and their characteristics: An online survey of three cohorts of animal researchers" %}}." *PloS one*, 15(1), e0226443.
 
 Pre-registration:
 
-- [AsPredicted.org](https://aspredicted.org/)
-- [ClinicalTrials.gov](https://clinicaltrials.gov/)
-- [https://www.socialscienceregistry.org/](https://www.socialscienceregistry.org/) 
-- [http://osf.io/](http://osf.io/)
-- [https://egap.org/registry/](https://egap.org/registry/) 
-- [http://ridie.3ieimpact.org/](http://ridie.3ieimpact.org/)
-- [Getting started with DeclareDesign](https://declaredesign.org/getting-started/)
-- Preregistration information for [NeurIPS](https://preregister.science/neurips2020.html).
-- Journals that offer visible [badges for pre-registration](https://www.cos.io/initiatives/badges).
-- [What should a preregistration contain?](https://psyarxiv.com/cj5mh/)
+- {{% resource_link "c178b883-9f29-4c97-a3f5-81e512d8e959" "AsPredicted.org" %}}
+- {{% resource_link "fca7124c-186e-4736-a029-919bd59cc584" "ClinicalTrials.gov" %}}
+- {{% resource_link "b7a07c49-6941-43b8-8ba9-7de51a9c8273" "https://www.socialscienceregistry.org/" %}} 
+- {{% resource_link "f9dad7db-c052-4b8e-a238-e72bd099acd2" "http://osf.io/" %}}
+- {{% resource_link "8fba6067-e39e-48cd-abc7-54b3cf34907c" "https://egap.org/registry/" %}} 
+- {{% resource_link "1fee5d3d-ec7f-4b26-b277-568cc3cfcc9a" "http://ridie.3ieimpact.org/" %}}
+- {{% resource_link "1f1298d5-eb37-48a4-a64e-8ce320648421" "Getting started with DeclareDesign" %}}
+- Preregistration information for {{% resource_link "0a9e0354-fafc-46fc-b76c-c139e49d8998" "NeurIPS" %}}.
+- Journals that offer visible {{% resource_link "ac8795ca-96c1-46d4-a3f1-c2a631185d30" "badges for pre-registration" %}}.
+- {{% resource_link "e93954c2-9499-4aa9-995e-64ecd0f6d12c" "What should a preregistration contain?" %}}
 
 More arguments in favour of preregistration:
 
-- [https://www.phdontrack.net/open-science/preregistration/](https://www.phdontrack.net/open-science/preregistration/)
-- [https://help.osf.io/article/145-preregistration](https://help.osf.io/article/145-preregistration) 
-- A thoughtful discussion about [pre-registration in mental health research by the editor of Biological Psychiatry, Deanna Barch](https://www.bpsgos.org/article/S2667-1743%2821%2900062-8/fulltext).
-- Many examples of pre-registration templates are [linked in this thread from Twitter](https://twitter.com/katiecorker/status/1356693366256328708).
-- [Another example](https://docs.google.com/document/d/1DaNmJEtBy04bq1l5OxS4JAscdZEkUGATURWwnBKLYxk/edit?pli=1).
-- [A recent talk about preregistration](https://www.youtube.com/watch?v=-fz_kZvlWpw).
+- {{% resource_link "b0b83975-3136-4608-b82f-2f0e2215455f" "https://www.phdontrack.net/open-science/preregistration/" %}}
+- {{% resource_link "c303699e-9e86-4061-be9e-b09f11ec3bfa" "https://help.osf.io/article/145-preregistration" %}} 
+- A thoughtful discussion about {{% resource_link "73717d32-83e7-45ed-8e9c-b754f7094171" "pre-registration in mental health research by the editor of Biological Psychiatry, Deanna Barch" %}}.
+- Many examples of pre-registration templates are {{% resource_link "66f807fe-f246-4833-b4ae-529d2d53f773" "linked in this thread from Twitter" %}}.
+- {{% resource_link "12a18866-5c56-4df2-bc72-793fc1b95436" "Another example" %}}.
+- {{% resource_link "ebbee91d-229b-420c-8755-2235585c4ec1" "A recent talk about preregistration" %}}.
 
 Registered reports:
 
-[A list of journals accepting registered report submissions](https://www.cos.io/initiatives/registered-reports).
+{{% resource_link "4258a7ed-ac12-45f3-804e-e953ed8c8bdc" "A list of journals accepting registered report submissions" %}}.

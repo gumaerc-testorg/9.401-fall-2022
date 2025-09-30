@@ -9,9 +9,9 @@ uid: f8d5440b-64cf-4c7c-83d2-39c9145fde08
 
 *The Tool*: Badges, transparency audits, openness metrics.
 
-1. Here is the job description for [the open tenure-track position in BCS and Picower](https://academicjobsonline.org/ajo/jobs/22653). In response to input from last year's class, the language has been updated. What do you think of the current nod to open science? What changes would you recommend?
-2. Look at the BCS and School of Science websites. How could these organizations express commitments to open science that would fulfill e.g. the Wellcome Trust "[guidance](https://wellcome.org/grant-funding/guidance/open-access-guidance/research-organisations-how-implement-responsible-and-fair-approaches-research)?" Suggest language, and where it would go on the website. 
-3. Find a journal that uses [Open Science badges](https://www.cos.io/initiatives/badges), and find a paper that has badges. Do the authors include the corresponding badge on their CV or website? 
+1. Here is the job description for {{% resource_link "4ff4efea-209b-450f-9985-9e40daa79db4" "the open tenure-track position in BCS and Picower" %}}. In response to input from last year's class, the language has been updated. What do you think of the current nod to open science? What changes would you recommend?
+2. Look at the BCS and School of Science websites. How could these organizations express commitments to open science that would fulfill e.g. the Wellcome Trust "{{% resource_link "066f8bb7-b1ce-4af4-ac34-ced2664ed369" "guidance" %}}?" Suggest language, and where it would go on the website. 
+3. Find a journal that uses {{% resource_link "ac8795ca-96c1-46d4-a3f1-c2a631185d30" "Open Science badges" %}}, and find a paper that has badges. Do the authors include the corresponding badge on their CV or website? 
 4. Find an author in a discipline close to yours who advertises their open science practices on their CV or personal website. 
 
 *Critical evaluation of the tool*. What is the promise of these tools in addressing this challenge? What are the biggest obstacles?
