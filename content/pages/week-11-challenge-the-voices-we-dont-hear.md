@@ -14,9 +14,9 @@ Throughout the history of academia, people who hold marginalized identities, inc
 
 ### Readings
 
-- Matias, J. N., Lewis Jr, N., & Hope, E. (2021). "[Universities Say They Want More Diverse Faculties. So Why Is Academia Still So White?](https://fivethirtyeight.com/features/universities-say-they-want-more-diverse-faculties-so-why-is-academia-still-so-white/)" FiveThirtyEight.
-- [Narrow hiring practices at US universities revealed](https://www.nature.com/articles/d41586-022-03065-0). (If interested, [the accompanying paper](https://www.nature.com/articles/s41586-022-05222-x).)
-- Graduate student [enrollment and time to degree](https://tableau.mit.edu/t/IR/views/LifeSciencesCoalition-MITGraduateStudentData/GradStudents?:isGuestRedirectFromVizportal=y&:embed=y) by department at MIT.
-- Pownall, M., Talbot, C. V., Henschel, A., et al. (2021). "[Navigating Open Science as Early Career Feminist Researchers](https://journals.sagepub.com/doi/pdf/10.1177/03616843211029255)." *Psychology of Women Quarterly*.
-- Problems with "parachute science" in the Global South, from [Science Friday](http://sciencefriday.com/segments/parachute-science-problem/).
-- Crew, B. (2020). "[Women and Minority Researchers Have More Original Ideas, But White Men Are Rewarded Faster](https://www.natureindex.com/news-blog/women-and-minority-researchers-have-more-original-ideas-but-white-men-are-rewarded-faster#.YXvr-ATODjg.twitter)." Nature Index.
+- Matias, J. N., Lewis Jr, N., & Hope, E. (2021). "{{% resource_link "b60241b4-d521-4fb9-8094-d5bb5ab0824c" "Universities Say They Want More Diverse Faculties. So Why Is Academia Still So White?" %}}" FiveThirtyEight.
+- {{% resource_link "c8fed7b9-4fcb-440c-afba-43f546ea0d6e" "Narrow hiring practices at US universities revealed" %}}. (If interested, {{% resource_link "5c8cbe9c-2137-48f7-a08d-82270b55256c" "the accompanying paper" %}}.)
+- Graduate student {{% resource_link "d71b24bf-23c2-4de7-a71d-8a669e2c3bdf" "enrollment and time to degree" %}} by department at MIT.
+- Pownall, M., Talbot, C. V., Henschel, A., et al. (2021). "{{% resource_link "fd747a8a-2ba1-4731-a9d0-3fe6e82c9c07" "Navigating Open Science as Early Career Feminist Researchers" %}}." *Psychology of Women Quarterly*.
+- Problems with "parachute science" in the Global South, from {{% resource_link "1d760a19-8946-465e-9e2f-36223c381f07" "Science Friday" %}}.
+- Crew, B. (2020). "{{% resource_link "371bd2e8-4455-43c9-8b3c-c9cba0c7213a" "Women and Minority Researchers Have More Original Ideas, But White Men Are Rewarded Faster" %}}." Nature Index.

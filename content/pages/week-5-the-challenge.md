@@ -12,9 +12,9 @@ The scientific process is supposed to accumulate better information and identify
 
 ### Readings
 
-- Talk by [Simine Vazire at Open Science 2019](https://www.youtube.com/watch?v=Yf1Ovx-OixE&t=2373s).
+- Talk by {{% resource_link "0aa5a882-4253-4e7b-8a39-a2a879aebd02" "Simine Vazire at Open Science 2019" %}}.
 - Bishop, D. V. (2018). "Fallibility in science: Responding to errors in the work of oneself and others." *Advances in Methods and Practices in Psychological Science*, *1*(3), 432-438. 
-- In this [Twitter thread,](https://twitter.com/ScannLab/status/1434904032678645761?s=20) a grad student wrote about finding a bug in their code and reckoning with the consequences. Sep 6, 2021. 
-- At least read the abstract of the following: Hosseini, M., Hilhorst, M., de Beaufort, I., & Fanelli, D. (2018). "[Doing the right thing: A qualitative investigation of retractions due to unintentional error](https://link.springer.com/article/10.1007%2Fs11948-017-9894-2)." *Science and engineering ethics*, *24*(1), 189-206.
+- In this {{% resource_link "3fb91cbe-7904-45f0-9b70-92a37fcab130" "Twitter thread," %}} a grad student wrote about finding a bug in their code and reckoning with the consequences. Sep 6, 2021. 
+- At least read the abstract of the following: Hosseini, M., Hilhorst, M., de Beaufort, I., & Fanelli, D. (2018). "{{% resource_link "e1725b9b-82ba-4c88-8f1f-2e1926f4db96" "Doing the right thing: A qualitative investigation of retractions due to unintentional error" %}}." *Science and engineering ethics*, *24*(1), 189-206.
 
 In part 1 of your response paper, describe something you learned from these resources you didn't already know, and/or a personal experience you've had that really brought home the challenge of catching and correcting mistakes and errors, in your own science or in your lab or in your field.
