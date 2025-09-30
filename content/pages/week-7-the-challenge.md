@@ -12,10 +12,10 @@ Scientific progress is theoretically a gradual process that involves many resear
 
 ### Readings
 
-- [MIT news release re: ending negotiations with Elsevier](https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611).
-- [Chris Bourg's colloquium talk in BCS](https://www.dropbox.com/s/mq417aqg4f3sgsq/Bourg-04-01-2021.mp4?dl=0), April 2021. Chris Bourg is the director of MIT Libraries and led negotiations between MIT and Elsevier. 
-- [Plan-S:](https://www.coalition-s.org/why-plan-s/) An Alliance of European funders mandating Open Access. The Wikipedia [article](https://en.wikipedia.org/wiki/Plan_S) includes a description of some of the concerns, and why the US refused to join. 
-- "[Who's downloading pirated papers? Everyone](https://www.sciencemag.org/news/2016/04/whos-downloading-pirated-papers-everyone)." *Science*.
-- [A short quiz on 'what costs more.'](https://virginia.libwizard.com/f/what-costs-more)
+- {{% resource_link "8019a55d-b9ae-4a2e-8bd1-81e54f3ea52e" "MIT news release re: ending negotiations with Elsevier" %}}.
+- {{% resource_link "ec5794e5-04ed-4098-a730-243a1b8160d0" "Chris Bourg's colloquium talk in BCS" %}}, April 2021. Chris Bourg is the director of MIT Libraries and led negotiations between MIT and Elsevier. 
+- {{% resource_link "9c5c8734-f339-405a-bc2c-8813a14673b2" "Plan-S:" %}} An Alliance of European funders mandating Open Access. The Wikipedia {{% resource_link "1419ba51-6dc4-4397-b7cb-2c7092cd61af" "article" %}} includes a description of some of the concerns, and why the US refused to join. 
+- "{{% resource_link "abe192ea-be8a-488b-8153-a0e5bba838df" "Who's downloading pirated papers? Everyone" %}}." *Science*.
+- {{% resource_link "08482ec7-56a2-4a25-b88a-26726b49e63b" "A short quiz on 'what costs more.'" %}}
 
 In your response paper, describe something you didn't know about publishing that you learned from these sources, and/or a personal experience you had with the costs and benefits of open-access publishing.

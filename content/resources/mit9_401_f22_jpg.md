@@ -10,8 +10,8 @@ image_metadata:
     the move toward more open, transparent, and reproducible practices across the
     entire research system. The badges above award *open data* (blue), *open materials*
     (orange), *open analytic code* (green), *papers* (purple), and *supplements* (brown).
-    (Credit: [Center for Open Science](https://www.cos.io/blog/badges-for-open-research-practices-available-on-osf-registrations).
-    License: CC BY-NC-SA.)'
+    (Credit: {{% resource_link "8daef0b7-747a-47f5-8f31-58a2c1381be7" "Center for
+    Open Science" %}}. License: CC BY-NC-SA.)'
   credit: ''
   image-alt: 'Five six-sided badges in solid colors with a simple icon in the center
     representing the feature, blue for open data, green for open code, orange for

@@ -14,12 +14,12 @@ We have chosen to be here, to spend our time and energy doing scientific researc
 
 To be completed by Day 1:
 
-- Oreskes, N. (2021). Chapter 1. In *Why Trust Science?* Princeton University Press, 2019. \[[Google Books preview](https://www.google.com/books/edition/Why_Trust_Science/B8iXDwAAQBAJ?hl=en&gbpv=1).\]
-- Dominus, S. (2017). [When the Revolution Came for Amy Cuddy](https://www.nytimes.com/2017/10/18/magazine/when-the-revolution-came-for-amy-cuddy.html). New York Times Magazine.
-- O'Dea, R. (2021). "[The Next 10 Years](https://www.youtube.com/watch?v=Ov4lJnZ5px0)." Keynote talk at AIMOS.
+- Oreskes, N. (2021). Chapter 1. In *Why Trust Science?* Princeton University Press, 2019. \[{{% resource_link "bcb95341-94d1-4bd8-9ea8-72d016d6e2ca" "Google Books preview" %}}.\]
+- Dominus, S. (2017). {{% resource_link "b65d069f-8daa-4e40-a79a-7e740921e4d3" "When the Revolution Came for Amy Cuddy" %}}. New York Times Magazine.
+- O'Dea, R. (2021). "{{% resource_link "e10ba5df-82ab-42f4-9f77-1f7c1465a5a1" "The Next 10 Years" %}}." Keynote talk at AIMOS.
 
 Optional extra reading:
 
-de Menard, A. (2020). "[What's Wrong with Social Science and How to Fix It: Reflections After Reading 2578 Papers](https://fantasticanachronism.com/2020/09/11/whats-wrong-with-social-science-and-how-to-fix-it/)."
+de Menard, A. (2020). "{{% resource_link "826b6d7f-a21e-4d3e-8e04-d802003be1e4" "What's Wrong with Social Science and How to Fix It: Reflections After Reading 2578 Papers" %}}."
 
 de Menard writes \[sic\]: "Criticizing *bad science from an abstract, 10000-foot view is pleasant: you hear about some stuff that doesn't replicate, some methodologies that seem a bit silly. "They should improve their methods", "p-hacking is bad", "we must change the incentives", you declare Zeuslike from your throne in the clouds, and then go on with your day. But actually diving into the sea of trash that is social science gives you a more tangible perspective, a more visceral revulsion, and perhaps even a sense of Lovecraftian awe at the sheer magnitude of it all: a vast landfill—a great agglomeration of garbage extending as far as the eye can see, effluvious waves crashing and throwing up a foul foam of p=0.049 papers. As you walk up to the diving platform, the deformed attendant hands you a pair of flippers. Noticing your reticence, he gives a subtle nod as if to say: "come on then, jump in".*

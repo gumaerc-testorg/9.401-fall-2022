@@ -12,8 +12,8 @@ Historically, academic institutions have mostly rewarded single actors who are t
 
 ### Readings
 
-- Yarkoni, T. (2018). "[No, it’s not The Incentives—it’s you](https://www.talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/)."
-- A 5-minute [discussion about incentives during promotion and hiring](https://www.youtube.com/watch?v=9AprABg0VH4&t=2471s) from the launch of CORES, center for reproducible research at Stanford; minutes 41-46.
-- How to change incentives: The Wellcome Foundation's ["Guidance" for research organisations on how to implement responsible and fair approaches for research assessment](https://wellcome.org/grant-funding/guidance/open-access-guidance/research-organisations-how-implement-responsible-and-fair-approaches-research).
-- Should advertising of 'open' behaviors be opt-in or by external audit? Episode of the [Everything Hertz podcast discussing the controversy about transparency audits](https://open.spotify.com/episode/29mLuNZblL7PYV02FmMBXK?si=614be578937944d3%20) (start at 3:30).
-- Tiokhin, L., Yan, M., & Morgan, T. J. (2021). "[Competition for priority harms the reliability of science, but reforms can help](https://www.nature.com/articles/s41562-020-01040-1)." *Nature Human Behaviour*, 1-11.
+- Yarkoni, T. (2018). "{{% resource_link "abda5f7e-7580-4d6f-800b-a16c183787fd" "No, it’s not The Incentives—it’s you" %}}."
+- A 5-minute {{% resource_link "dfd36151-c787-42fd-8760-40cbbfa82288" "discussion about incentives during promotion and hiring" %}} from the launch of CORES, center for reproducible research at Stanford; minutes 41-46.
+- How to change incentives: The Wellcome Foundation's {{% resource_link "066f8bb7-b1ce-4af4-ac34-ced2664ed369" "\"Guidance\" for research organisations on how to implement responsible and fair approaches for research assessment" %}}.
+- Should advertising of 'open' behaviors be opt-in or by external audit? Episode of the {{% resource_link "42c7f248-2928-4d8b-8ae7-6ba31d02ee55" "Everything Hertz podcast discussing the controversy about transparency audits" %}} (start at 3:30).
+- Tiokhin, L., Yan, M., & Morgan, T. J. (2021). "{{% resource_link "59819f30-ee36-454b-9680-6229f40d3d13" "Competition for priority harms the reliability of science, but reforms can help" %}}." *Nature Human Behaviour*, 1-11.
